@@ -5,4 +5,4 @@
 
 `6` There was a man sent from God whose name was John. `7` He came as a witness to testify concerning that light, so that through him all might believe. `8` He himself was not the light; he came only as a witness to the light.
 
-`9` The true light that gives light to everyone was coming in to the world.. `10` He was in the world, and though the world was made through him.
+`9` The true light that gives light to everyone was coming into the world. `10` He was in the world, and though the world was made through him.
