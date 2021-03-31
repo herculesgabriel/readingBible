@@ -9,4 +9,8 @@
 
 `14` The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.
 
-`15` (John testified concerning him. He cried out, saying, "This is the one I spoke about when I said, 'He who comes after me has surpassed me because he was before me.'")
+`15` (John testified concerning him. He cried out, saying, "This is the one I spoke about when I said, 'He who comes after me has surpassed me because he was before me.'") `16` Out of his fullness we have all received grace in place of grace already given. `17` For the law was given through Moses; grace and truth came through Jesus Christ. `18` No one has ever seen God, but the one and only Son, who is himself God and is in closest relationship with the Father, has made him known.
+
+## John the Baptist Denies Being the Messiah
+
+`19` Now this was John's testimony when the Jewish leaders in Jerusalem sent priests and Levites to ask him who he was. `20` He did not fail to confess, but confessed freely, "I am not the Messiah".
