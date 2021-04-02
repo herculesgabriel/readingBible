@@ -29,3 +29,9 @@
 `26` "I baptize with water," John replied, "but among you stands one you do not know. `27` He is the one who comes after me, the straps of whose sandals I am not worthy to untie."
 
 `28` This all happened at Bethany on the other side of the Jordan, where John was baptizing.
+
+## John Testifies About Jesus
+
+`29` The next day John saw Jesus coming toward him and said, "Look, the Lamb of God, who takes away the sin of the world! `30` This is the one I meant when I said, 'A man who comes after me has surpassed me because he was before me.' `31` I myself did not know him, but the reason I came baptizing with water was that he might be revealed to Israel."
+
+`32` Then John gave this testimony: "I saw the Spirit come down from heaven as a dove and remain on him. `33` And I myself did not know him, but the one who sent me to baptize with water told me, 'The man on whom you see the Spirit com down and remain is the one who will baptize with the Holy Spirit.' `34` I have seen and I testify that this is God's Chosen One."
