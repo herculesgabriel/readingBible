@@ -35,3 +35,13 @@
 `29` The next day John saw Jesus coming toward him and said, "Look, the Lamb of God, who takes away the sin of the world! `30` This is the one I meant when I said, 'A man who comes after me has surpassed me because he was before me.' `31` I myself did not know him, but the reason I came baptizing with water was that he might be revealed to Israel."
 
 `32` Then John gave this testimony: "I saw the Spirit come down from heaven as a dove and remain on him. `33` And I myself did not know him, but the one who sent me to baptize with water told me, 'The man on whom you see the Spirit com down and remain is the one who will baptize with the Holy Spirit.' `34` I have seen and I testify that this is God's Chosen One."
+
+## John's Disciples Follow Jesus
+
+`35` The next day John was there again with two of his disciples. `36` When he saw Jesus passing by, he said, "Look, the Lamb of God!"
+
+`37` When the two disciples heard him say this, they followed Jesus. `38` Turn around, Jesus saw them following and asked, "**What do you want?**"
+<br> They said, "Rabbi" (which means "Teacher"), **"where are you staying?"**
+
+`39` "**Come,**", he replied, "**and you will see.**"
+<br> So they went and saw where he was staying, and they spent that day with him. It was about four in the afternoon.
