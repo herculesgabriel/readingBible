@@ -45,3 +45,6 @@
 
 `39` "**Come,**", he replied, "**and you will see.**"
 <br> So they went and saw where he was staying, and they spent that day with him. It was about four in the afternoon.
+
+  `40` Andrew, Simon Peter's brother, was one of the two who heard what John ha said and who had followed Jesus. `41` The first thing Andrew did was to find his brother Simon and tell him, "We have found the Messiah" (that is, the Christ). `42` And he brought him to Jesus.
+  <br> Jesus looked at him and said, **"You are Simon son of John. You will be called Cephas"** (which, when translated, is Peter).
