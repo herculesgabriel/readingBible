@@ -46,5 +46,23 @@
 `39` "**Come,**", he replied, "**and you will see.**"
 <br> So they went and saw where he was staying, and they spent that day with him. It was about four in the afternoon.
 
-  `40` Andrew, Simon Peter's brother, was one of the two who heard what John ha said and who had followed Jesus. `41` The first thing Andrew did was to find his brother Simon and tell him, "We have found the Messiah" (that is, the Christ). `42` And he brought him to Jesus.
-  <br> Jesus looked at him and said, **"You are Simon son of John. You will be called Cephas"** (which, when translated, is Peter).
+  `40` Andrew, Simon Peter's brother, was one of the two who heard what John had said and who had followed Jesus. `41` The first thing Andrew did was to find his brother Simon and tell him, "We have found the Messiah" (that is, the Christ). `42` And he brought him to Jesus.
+  <br> Jesus looked at him and said, "**You are Simon son of John. You will be called Cephas**" (which, when translated, is Peter).
+
+  ## Jesus Calls Philip and Nathanael
+
+  `43` The next day Jesus decided to leave for Galilee. Finding Philip, he said to him, "**Follow me.**"
+
+  `44` Philip, like Andrew and Peter, was from the town of Bethsaida. `45` Philip found Nathanael and told him, "We have found the one Moses wrote about in the Law, and about whom the prophets also wrote - Jesus of Nazareth, the son of Joseph."
+
+  `46` "Nazareth! Can anything good come from there?" Nathanael asked.
+  <br> "Come and see," said Philip.
+
+  `47` When Jesus saw Nathanael approaching, he said of him, "**Here truly is an Israelite in whom there is no deceit.**"
+
+  `48` "How do you know me?" Nathanael asked.
+  <br> Jesus answered, "**I saw you while you were still under the fig tree before Philip called you.**"
+
+  `49` Then Nathanael declared, "Rabbi, you are the Son of God; you are the king of Israel."
+
+  `50` Jesus said, "**You believe because I told you I saw you under the fig tree. You will see greater things than that.**" `51` He then added, "**Very truly I tell you, you will see 'heaven open, and the angels of God ascending and descending on' the Son of Man.**"
