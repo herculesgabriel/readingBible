@@ -76,3 +76,10 @@
 `4` "**Woman, why do you involve me?**" Jesus replied. "**My hour has not yet come.**"
 
 `5` His mother said to the servants, "Do whatever he tells you."
+
+`6` Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons.
+
+`7` Jesus said to the servants, "**Fill the jars with water**"; so they filled them to the brim.
+
+`8` Then he told them, "**Now draw some out and take it to the master of the banquet.**"
+<br> They did so, `9` and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside `10` and said, "Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now."
