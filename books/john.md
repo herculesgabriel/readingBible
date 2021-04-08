@@ -83,3 +83,11 @@
 
 `8` Then he told them, "**Now draw some out and take it to the master of the banquet.**"
 <br> They did so, `9` and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside `10` and said, "Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now."
+
+`11` What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.
+
+`12` After this he went down to Capernaum with his mother and brothers and his disciples. There they stayed for a few days.
+
+## Jesus Clears the Temple Courts
+
+`13` When it was almost time for the Jewish Passover, Jesus went up to Jerusalem. `14` In the temple courts he found people selling cattle, sheep and doves, and others sitting at tables exchanging money. `15` So he made a whip out of cords, and drove all from the temple courts, both sheep and cattle; he scattered the coins of the money changers and overturned their tables. `16` To those who sold doves he said, "**Get these out of here! Stop turning my Father's house into a market!**" `17` His disciples remembered that it is written: "Zeal for your house will consume me."
