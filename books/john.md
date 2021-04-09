@@ -91,3 +91,11 @@
 ## Jesus Clears the Temple Courts
 
 `13` When it was almost time for the Jewish Passover, Jesus went up to Jerusalem. `14` In the temple courts he found people selling cattle, sheep and doves, and others sitting at tables exchanging money. `15` So he made a whip out of cords, and drove all from the temple courts, both sheep and cattle; he scattered the coins of the money changers and overturned their tables. `16` To those who sold doves he said, "**Get these out of here! Stop turning my Father's house into a market!**" `17` His disciples remembered that it is written: "Zeal for your house will consume me."
+
+`18` The Jews then responded to him, "What sign can you show us to prove your authority to do all this?"
+
+`19` Jesus answered them, "**Destroy this temple, and I will raise it again in three days.**"
+
+`20` They replied, "It has taken forty-six years to build this temple, and you are going to raise it in three days?" `21` But the temple he had spoken of was his body. `22` After he was raised from the dead, his disciples recalled what he had said. Then they believed the scripture and the words that Jesus had spoken.
+
+`23` Now while he was in Jerusalem at the Passover Festival, many people saw the signs he was performing and believed in his name. `24` But Jesus would not entrust himself to them, for he knew all people. `25` He did not need any testimony about mankind, for he knew what was in each person.
