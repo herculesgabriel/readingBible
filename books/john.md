@@ -1,6 +1,9 @@
-# 1
+# John
 
-## The Word Became Flesh
+## 1
+
+### The Word Became Flesh
+
 `1` In the beginning was the Word, and the Word was with God, and the Word was God. `2` He was with God in the beginning. `3` Through him all things were made; without him nothing was made that has been made. `4` In him was life, and that life was the light of all mankind. `5` The light shines in the darkness, and the darkness has not overcome it.
 
 `6` There was a man sent from God whose name was John. `7` He came as a witness to testify concerning that light, so that through him all might believe. `8` He himself was not the light; he came only as a witness to the light.
@@ -67,9 +70,9 @@
 
 `50` Jesus said, "**You believe because I told you I saw you under the fig tree. You will see greater things than that.**" `51` He then added, "**Very truly I tell you, you will see 'heaven open, and the angels of God ascending and descending on' the Son of Man.**"
 
-# 2
+## 2
 
-## Jesus Changes Water Into Wine
+### Jesus Changes Water Into Wine
 
 `1` On the third day a wedding took place at Cana in Galilee. Jesus' mother was there, `2` and Jesus and his disciples had also been invited to the wedding. `3` When the wine was gone, Jesus' mother said to him, "They have no more wine."
 
@@ -99,3 +102,17 @@
 `20` They replied, "It has taken forty-six years to build this temple, and you are going to raise it in three days?" `21` But the temple he had spoken of was his body. `22` After he was raised from the dead, his disciples recalled what he had said. Then they believed the scripture and the words that Jesus had spoken.
 
 `23` Now while he was in Jerusalem at the Passover Festival, many people saw the signs he was performing and believed in his name. `24` But Jesus would not entrust himself to them, for he knew all people. `25` He did not need any testimony about mankind, for he knew what was in each person.
+
+## 3
+
+### Jesus Teaches Nicodemus
+
+`1` Now there was a Pharisee, a man named Nicodemus who was a member of the Jewish ruling council. `2` He came to Jesus at night and said, "Rabbi, we know that you are a teacher who has come from God. For no one could perform the signs you are doing if God were not with him."
+
+`3` Jesus replied, "**Very truly I tell you, no one can see the kingdom of God unless they are born again.**"
+
+`4` "How can someone be born when they are old?" Nicodemus asked. "Surely they cannot enter a second time into their mother's womb to be born!"
+
+`5` Jesus answered, "**Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit.** `6` **Flesh gives birth to flesh, but the Spirit gives birth to spirit.** `7` **You should not be surprised at my saying, 'You must be born again.'** `8` **The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.**"
+
+
