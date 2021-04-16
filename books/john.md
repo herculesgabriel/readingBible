@@ -128,3 +128,11 @@
 `27` To this John replied, "A person can receive only what is given them from heaven. `28` You yourselves can testify that I said, 'I am not the Messiah but am sent ahead of him.' `29` The bride belongs to the bridegroom. The friend who attends the bridegroom waits and listens for him, and is full of joy when he hears the bridegroom's voice. That joy is mine, and it is now complete. `30` He must become greater; I must become less."
 
 `31` The one who comes from above is above all; the one who is from the earth, and speaks as one from the earth. The one who comes from heaven is above all. `32` He testifies to what he has seen and heard, but no one accepts his testimony. `33` Whoever has accepted it has certified that God is truthful. `34` For the one whom God has sent speaks the words of God, for God gives the Spirit without limit. `35` The Father loves the Son and has placed everything in his hands. `36` Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on them.
+
+## 4
+
+### Jesus Talks With a Samaritan Woman
+
+`1` Now Jesus learned that the Pharisees had heard that he was gaining and baptizing more disciples than John - `2` although in fact it was not Jesus who baptized, but his disciples. `3` So he left Judea and went back once more to Galilee.
+
+`4` Now he had to go through Samaria. `5` So he came to a town in Samaria called Sychar, near the plot of ground Jacob had given to his son Joseph. `6` Jacob's well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about noon.
