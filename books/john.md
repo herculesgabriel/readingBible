@@ -136,3 +136,9 @@
 `1` Now Jesus learned that the Pharisees had heard that he was gaining and baptizing more disciples than John - `2` although in fact it was not Jesus who baptized, but his disciples. `3` So he left Judea and went back once more to Galilee.
 
 `4` Now he had to go through Samaria. `5` So he came to a town in Samaria called Sychar, near the plot of ground Jacob had given to his son Joseph. `6` Jacob's well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about noon.
+
+`7` When a Samaritan woman came to draw water, Jesus said to her, "**Will you give me a drink?**" `8 `(His disciples had gone into the town to buy food.)
+
+`9` The Samaritan woman said to him, "You are a Jew and I am a Samaritan woman. How can you ask me for a drink?" (For Jews do not associate with Samaritans.)
+
+`10` Jesus answered her, "**If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water.**"
