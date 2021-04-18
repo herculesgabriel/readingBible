@@ -153,3 +153,25 @@
 
 `17` "I have no husband," she replied.  
 Jesus said to to her, "**You are right when you say you have no husband.** `18` **The fact is, you have had five husbands, and the man you now have is not your husband. What you have just said is quite true.**"
+
+`19` "Sir," the woman said, "I can see that you are a prophet. `20` Our ancestors worshiped on this mountain, but you Jews claim that the place where we must worship is in Jerusalem."
+
+`21` "**Woman,**" Jesus replied, "**believe me, a time is coming when you will worship the Father neither on this mountain nor in Jerusalem.** `22` **You Samaritans worship what you do not know; we worship what we do know, for salvation is from the Jews.** `23` **Yet a time is coming and has now come when the true worshipers will worship the Father in the Spirit and in truth, for they are the kind of worshipers the Father seeks.** `24` **God is spirit, and his worshipers must worship in the Spirit and in truth.**
+
+`25` The woman said, "I know that Messiah" (called Christ) "is coming. When he comes, he will explain everything to us."
+
+`26` Then Jesus declared, "**I, the one speaking to you - I am he.**"
+
+### The Disciples Rejoin Jesus
+
+`27` Just then his disciples returned and were surprised to find him talking with a woman. But no one asked, "What do you want?" or "Why are you talking with her?"
+
+`28` Then, leaving her water jar, the woman went back to the town and said to the people, `29` "Come, see a man who told me everything I ever did. Could this be the Messiah?" `30` They came out of the town and made their way toward him.
+
+`31` Meanwhile his disciples urged him, "Rabbi, eat something."
+
+`32` But he said to them, "**I have food to eat that you know nothing about.**"
+
+`33` Then his disciples said to each other, "Could someone have brought him food?"
+
+`34` "**My food,**", said Jesus, "**is to do the will of him who sent me and to finish his work.** `35` **Don't you have a saying, 'It's still four months untill harvest'? I tell you, open your eyes and look at the fields! They are ripe for harvest.** `36` **Even now the one who reaps draws a wage and harvests a crop for eternal life, so that the sower and the reaper may be glad together.** `37` **Thus the saying, 'One sows and another reaps' is true.** `38` **I sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labor.**
