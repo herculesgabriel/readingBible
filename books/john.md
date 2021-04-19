@@ -175,3 +175,15 @@ Jesus said to to her, "**You are right when you say you have no husband.** `18` 
 `33` Then his disciples said to each other, "Could someone have brought him food?"
 
 `34` "**My food,**", said Jesus, "**is to do the will of him who sent me and to finish his work.** `35` **Don't you have a saying, 'It's still four months untill harvest'? I tell you, open your eyes and look at the fields! They are ripe for harvest.** `36` **Even now the one who reaps draws a wage and harvests a crop for eternal life, so that the sower and the reaper may be glad together.** `37` **Thus the saying, 'One sows and another reaps' is true.** `38` **I sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labor.**
+
+### Many Samaritans Believe
+
+`39` Many of the Samaritans from that town believed in him because of the woman's testimony, "He told me everything I ever did." `40` So when the Samaritans came to him, they urged him to stay with them, and he stayed two days. `41` And because of his words many more became believers.
+
+`42` They said to the woman, "We no longer believe just because of what you said; now we have heard from ourselves, and we know that this man really is the Savior of the world."
+
+### Jesus Heals an Official's Son
+
+`43` After the two days he left for Galilee. `44` (Now Jesus himself had pointed out that a prophet has no honor in his own country.) `45` When he arrived in Galilee, the Galileans welcomed him. They had seen all that he had done in Jerusalem at the Passover Festival, for they also had been there.
+
+`46` Once more he visited Cana in Galilee, where he had turned the water into wine. And there was a certain royal official whose son lay sick at Capernaum. `47` When this man heard that Jesus had arrived in Galilee from Judea, he wen to him and begged him to come and heal his son, who was close to death.
