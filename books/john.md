@@ -225,3 +225,15 @@ The day on which this took place was a Sabbath, `10` and so the Jewish leaders s
 `24` **Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.** `25` **Very truly I tell you, a time is coming and has now come when the dead will hear the voice of the son of God and those who hear will live.** `26` **For as the Father has life in himself, so he has granted the Son also to have life in himself.** `27` **And he has given him authority to judge because he is the Son of Man.**
 
 `28` **Do not be amazed at this, for a time is coming when all who are in their graves will hear his voice** `29` **and come out - those who have done what is good will rise to live, and those who have done what is evil will rise to be condemned.** `30` **By myself I can do nothing; I judge only as I hear, and my judgement is just, for I seek not to please myself but him who sent me.**
+
+### Testimonies About Jesus
+
+`31` **If I testify about myself, my testimony is not true.** `32` **There is another who testifies in my favor, and I know that his testimony about me is true.**
+
+`33` **You have sent to John and he has testifies to the truth.** `34` **Not that I accept human testimony; but I mention it that you may be saved.** `35` **John was a lamp that burned and gave light, and you chose for a time to enjoy his light.**
+
+`36` **I have testimony weightier than that of John. For the works that the Father has given me to finish - the very works that I am doing - testify that the Father has sent me.** `37` **And the Father who sent me has himself testified concerning me. You have never heard his voice nor seen his form,** `38` **nor does his word dwell in you, for you do not believe the one he sent.** `39` **You study the Scriptures diligently because you think that in them you have eternal life. These are the very Scriptures that testify about me,** `40` **yet you refuse to come to me to have life.**
+
+`41` **I do not accept glory from human beings,** `42` **but I know you. I know that you do not have the love of God in your hearts.** `43` **I have come in my Father's name, and you do not accept me; but if someone else comes in his own name, you will accept him.** `44` **How can you believe since you accept glory from one another but do not seek the glory that comes from the only God?**
+
+`45` **But do not think I will accuse you before the Father. Your accuser is Moses, on whom your hopes are set.** `46` **If you believed Moses, you would believe me, for he wrote about me.** `47` **But since you do not believe what he wrote, how are you going to believe what I say?**
