@@ -18,10 +18,10 @@
 
 `19` Now this was John's testimony when the Jewish leaders in Jerusalem sent priests and Levites to ask him who he was. `20` He did not fail to confess, but confessed freely, "I am not the Messiah."
 
-`21` They asked him, "Then who are you? Are you Elijah?"
-<br> He said, "I am not."
-<br> "Are you the Prophet?"
-<br> He answered, "No."
+`21` They asked him, "Then who are you? Are you Elijah?"  
+He said, "I am not."  
+"Are you the Prophet?"  
+He answered, "No."
 
 `22` Finally they said, "Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?"
 
@@ -43,14 +43,14 @@
 
 `35` The next day John was there again with two of his disciples. `36` When he saw Jesus passing by, he said, "Look, the Lamb of God!"
 
-`37` When the two disciples heard him say this, they followed Jesus. `38` Turn around, Jesus saw them following and asked, "**What do you want?**"
-<br> They said, "Rabbi" (which means "Teacher"), **"where are you staying?"**
+`37` When the two disciples heard him say this, they followed Jesus. `38` Turn around, Jesus saw them following and asked, "**What do you want?**"  
+They said, "Rabbi" (which means "Teacher"), **"where are you staying?"**
 
-`39` "**Come,**", he replied, "**and you will see.**"
-<br> So they went and saw where he was staying, and they spent that day with him. It was about four in the afternoon.
+`39` "**Come,**", he replied, "**and you will see.**"  
+So they went and saw where he was staying, and they spent that day with him. It was about four in the afternoon.
 
-`40` Andrew, Simon Peter's brother, was one of the two who heard what John had said and who had followed Jesus. `41` The first thing Andrew did was to find his brother Simon and tell him, "We have found the Messiah" (that is, the Christ). `42` And he brought him to Jesus.
-<br> Jesus looked at him and said, "**You are Simon son of John. You will be called Cephas**" (which, when translated, is Peter).
+`40` Andrew, Simon Peter's brother, was one of the two who heard what John had said and who had followed Jesus. `41` The first thing Andrew did was to find his brother Simon and tell him, "We have found the Messiah" (that is, the Christ). `42` And he brought him to Jesus.  
+Jesus looked at him and said, "**You are Simon son of John. You will be called Cephas**" (which, when translated, is Peter).
 
 ## Jesus Calls Philip and Nathanael
 
@@ -58,13 +58,13 @@
 
 `44` Philip, like Andrew and Peter, was from the town of Bethsaida. `45` Philip found Nathanael and told him, "We have found the one Moses wrote about in the Law, and about whom the prophets also wrote - Jesus of Nazareth, the son of Joseph."
 
-`46` "Nazareth! Can anything good come from there?" Nathanael asked.
-<br> "Come and see," said Philip.
+`46` "Nazareth! Can anything good come from there?" Nathanael asked.  
+"Come and see," said Philip.
 
 `47` When Jesus saw Nathanael approaching, he said of him, "**Here truly is an Israelite in whom there is no deceit.**"
 
-`48` "How do you know me?" Nathanael asked.
-<br> Jesus answered, "**I saw you while you were still under the fig tree before Philip called you.**"
+`48` "How do you know me?" Nathanael asked.  
+Jesus answered, "**I saw you while you were still under the fig tree before Philip called you.**"
 
 `49` Then Nathanael declared, "Rabbi, you are the Son of God; you are the king of Israel."
 
@@ -84,8 +84,8 @@
 
 `7` Jesus said to the servants, "**Fill the jars with water**"; so they filled them to the brim.
 
-`8` Then he told them, "**Now draw some out and take it to the master of the banquet.**"
-<br> They did so, `9` and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside `10` and said, "Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now."
+`8` Then he told them, "**Now draw some out and take it to the master of the banquet.**"  
+They did so, `9` and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside `10` and said, "Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now."
 
 `11` What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.
 
@@ -137,7 +137,7 @@
 
 `4` Now he had to go through Samaria. `5` So he came to a town in Samaria called Sychar, near the plot of ground Jacob had given to his son Joseph. `6` Jacob's well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about noon.
 
-`7` When a Samaritan woman came to draw water, Jesus said to her, "**Will you give me a drink?**" `8 `(His disciples had gone into the town to buy food.)
+`7` When a Samaritan woman came to draw water, Jesus said to her, "**Will you give me a drink?**" `8` (His disciples had gone into the town to buy food.)
 
 `9` The Samaritan woman said to him, "You are a Jew and I am a Samaritan woman. How can you ask me for a drink?" (For Jews do not associate with Samaritans.)
 
@@ -174,7 +174,7 @@ Jesus said to to her, "**You are right when you say you have no husband.** `18` 
 
 `33` Then his disciples said to each other, "Could someone have brought him food?"
 
-`34` "**My food,**", said Jesus, "**is to do the will of him who sent me and to finish his work.** `35` **Don't you have a saying, 'It's still four months untill harvest'? I tell you, open your eyes and look at the fields! They are ripe for harvest.** `36` **Even now the one who reaps draws a wage and harvests a crop for eternal life, so that the sower and the reaper may be glad together.** `37` **Thus the saying, 'One sows and another reaps' is true.** `38` **I sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labor.**
+`34` "**My food,**", said Jesus, "**is to do the will of him who sent me and to finish his work.** `35` **Don't you have a saying, 'It's still four months until harvest'? I tell you, open your eyes and look at the fields! They are ripe for harvest.** `36` **Even now the one who reaps draws a wage and harvests a crop for eternal life, so that the sower and the reaper may be glad together.** `37` **Thus the saying, 'One sows and another reaps' is true.** `38` **I sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labor.**
 
 ### Many Samaritans Believe
 
