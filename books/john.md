@@ -237,3 +237,11 @@ The day on which this took place was a Sabbath, `10` and so the Jewish leaders s
 `41` **I do not accept glory from human beings,** `42` **but I know you. I know that you do not have the love of God in your hearts.** `43` **I have come in my Father's name, and you do not accept me; but if someone else comes in his own name, you will accept him.** `44` **How can you believe since you accept glory from one another but do not seek the glory that comes from the only God?**
 
 `45` **But do not think I will accuse you before the Father. Your accuser is Moses, on whom your hopes are set.** `46` **If you believed Moses, you would believe me, for he wrote about me.** `47` **But since you do not believe what he wrote, how are you going to believe what I say?**
+
+## 6
+
+### Jesus Feeds the Five Thousand
+
+`1` Some time after this, Jesus crossed to the far shore of the Sea of Galilee (that is, the Sea of Tiberias), `2` and a great crowd of people followed him because they saw the signs he had performed by healing the sick. `3` Then Jesus went up on a mountainside and sat down with his disciples. `4` The Jewish Passover Festival was near.
+
+`5` When Jesus looked up and saw a great crowd coming toward him, he said to Philip, "**Where shall we buy bread for these people to eat?**" `6` He asked this only to test him, for he already had in mind what he was going to do.
