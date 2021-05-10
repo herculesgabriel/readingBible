@@ -245,3 +245,13 @@ The day on which this took place was a Sabbath, `10` and so the Jewish leaders s
 `1` Some time after this, Jesus crossed to the far shore of the Sea of Galilee (that is, the Sea of Tiberias), `2` and a great crowd of people followed him because they saw the signs he had performed by healing the sick. `3` Then Jesus went up on a mountainside and sat down with his disciples. `4` The Jewish Passover Festival was near.
 
 `5` When Jesus looked up and saw a great crowd coming toward him, he said to Philip, "**Where shall we buy bread for these people to eat?**" `6` He asked this only to test him, for he already had in mind what he was going to do.
+
+`7` Philip answered him, "It would take more than half a year's wages to buy enough bread for each one to have a bite!"
+
+`8` Another of his disciples, Andrew, Simon Peter's brother, spoke up, `9` "Here is a boy with five small barley loaves and two small fish, but how far will they go among so many?"
+
+`10` Jesus said, "**Have the people sit down.**" There was plenty of grass in that place, and they sat down (about five thousand men were there). `11` Jesus then took the loaves, gave thanks, and distributed to those who were seated as much as they wanted. He did the same with the fish.
+
+`12` When they had all had enough to eat, he said to his disciples, "**Gather the pieces that are left over. Let nothing be wasted.**" `13` So they gathered them and filled twelve baskets with the pieces of the five barley loaves left over by those who had eaten.
+
+`14` After the people saw the sign Jesus performed, they began to say, "Surely this is the Prophet who is to come into the world." `15` Jesus, knowing that they intended to come and make him king by force, withdrew again to a mountain by himself.
