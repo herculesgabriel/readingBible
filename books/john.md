@@ -255,3 +255,9 @@ The day on which this took place was a Sabbath, `10` and so the Jewish leaders s
 `12` When they had all had enough to eat, he said to his disciples, "**Gather the pieces that are left over. Let nothing be wasted.**" `13` So they gathered them and filled twelve baskets with the pieces of the five barley loaves left over by those who had eaten.
 
 `14` After the people saw the sign Jesus performed, they began to say, "Surely this is the Prophet who is to come into the world." `15` Jesus, knowing that they intended to come and make him king by force, withdrew again to a mountain by himself.
+
+### Jesus Walks on the Water
+
+`16` When evening came, his disciples went down to the lake, `17` where they got into a boat and set off across the lake for Capernaum. By now it was dark, and Jesus had not yet joined them. `18` A strong wind was blowing and the waters grew rough. `19` When they had rowed about three or four miles, they saw Jesus approaching the boat, walking on the water; and they were frightened. `20` But he said to them, "**It is I; don't be afraid.**" `21` Then they were willing to take him into the boat, and immediately the boat reached the shore where they were heading.
+
+`2` The next day the crowd that stayed on the opposite shore of the lake realized that only one boat had been there, and that Jesus had not entered it with his disciples, but that they had gone away alone. `23` Then some boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks. `24` Once the crowd realized that neither Jesus nor his disciples were there, they got into the boats and went to Capernaum in search of Jesus.
