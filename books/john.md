@@ -261,3 +261,21 @@ The day on which this took place was a Sabbath, `10` and so the Jewish leaders s
 `16` When evening came, his disciples went down to the lake, `17` where they got into a boat and set off across the lake for Capernaum. By now it was dark, and Jesus had not yet joined them. `18` A strong wind was blowing and the waters grew rough. `19` When they had rowed about three or four miles, they saw Jesus approaching the boat, walking on the water; and they were frightened. `20` But he said to them, "**It is I; don't be afraid.**" `21` Then they were willing to take him into the boat, and immediately the boat reached the shore where they were heading.
 
 `2` The next day the crowd that stayed on the opposite shore of the lake realized that only one boat had been there, and that Jesus had not entered it with his disciples, but that they had gone away alone. `23` Then some boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks. `24` Once the crowd realized that neither Jesus nor his disciples were there, they got into the boats and went to Capernaum in search of Jesus.
+
+### Jesus the Bread of Life
+
+`25` When they found him on the other side of the lake, they asked him "Rabbi, when did you get here?"
+
+`26` Jesus answered, "**Very truly I tell you, you are looking for me, not because you saw the signs I performed but because you ate the loaves and had your fill.** `27` **Do not work for food that spoils, but for food that endures to eternal life, which the Son of Man will give you. For on him God the Father has placed his seal of approval.**"
+
+`28` Then they asked him, "What must we do to do the works God requires?"
+
+`29` Jesus answered, "The work of God is this: to believe in the one he has sent."
+
+`30` So they asked him, "What sign then will you give that we may see it and believe you? What will you do? `31` Our ancestors ate the manna in the wilderness; as it is written: 'He gave them bread from heaven to eat.'"
+
+`32` Jesus said to them, "**Very truly I tell you, it is not Moses who has given you the bread from heave, but it is my Father who gives you the true bread from heaven.** `33` **For the bread of God is the bread that comes down from heaven and gives life to the world.**"
+
+`34` "Sir," they said, "always give us this bread."
+
+`35` Then Jesus declared, "**I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty.** `36` **But as I told you, you have seen me and still you do not believe.** `37` **All those the Father gives me will come to me, and whoever comes to me I will never drive away.** `38` **For I have come down from heaven not to do my will but to do the will of him who sent me.** `39` **And this is the will of him who sent me, that I shall lose none of all those he has given me, but raise them up at the last day.** `40` **For my Father's will is that everyone who looks to the Son and believes in him shall have eternal life, and I will raise them up at the last day.**"
