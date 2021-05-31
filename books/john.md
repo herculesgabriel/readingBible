@@ -301,3 +301,11 @@ The day on which this took place was a Sabbath, `10` and so the Jewish leaders s
 `68` Simon Peter answered him, "Lord, to whom shall we go? You have the words of eternal life. `69` We have come to believe and to know that you are the Holy One of God."
 
 `70` Then Jesus replied, "**Have I not chosen you, the Twelve? Yet one of you is a devil!**" `71` (He meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray him.)
+
+## 7
+
+### Jesus Goes to the Festival of Tabernacles
+
+`1` After this, Jesus went around in Galilee. He did not want to go about in Judea because the Jewish leaders there were looking for a way to kill him. `2` But when the Jewish Festival of Tabernacles was near, `3` Jesus's brothers said to him, "Leave Galilee and go to Judea, so that your disciples there may see the works you do. `4` No one who wants to become a public figure acts in secret. Since you are doing these things, show yourself to the world." `5` For even his own brothers did not believe in him.
+
+`6` Therefore Jesus told them, "**My time is not yet here; for you any time will do.** `7` **The world cannot hate you, but it hates me because I testify that its works are evil.** `8` **You go to the festival. I am not going up to this festival, because my time has not yet fully come.**" `9` After he had said this, he stayed in Galilee.
