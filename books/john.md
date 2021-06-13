@@ -309,3 +309,8 @@ The day on which this took place was a Sabbath, `10` and so the Jewish leaders s
 `1` After this, Jesus went around in Galilee. He did not want to go about in Judea because the Jewish leaders there were looking for a way to kill him. `2` But when the Jewish Festival of Tabernacles was near, `3` Jesus's brothers said to him, "Leave Galilee and go to Judea, so that your disciples there may see the works you do. `4` No one who wants to become a public figure acts in secret. Since you are doing these things, show yourself to the world." `5` For even his own brothers did not believe in him.
 
 `6` Therefore Jesus told them, "**My time is not yet here; for you any time will do.** `7` **The world cannot hate you, but it hates me because I testify that its works are evil.** `8` **You go to the festival. I am not going up to this festival, because my time has not yet fully come.**" `9` After he had said this, he stayed in Galilee.
+
+`10` However, after his brothers had left for festival, he went also, not publicly, but in secret. `11` Now at the festival the Jewish leaders were watching for Jesus and asking, "Where is he?"
+
+`12` Among the crowds there was widespread whispering about him. Some said, "He is a good man."  
+Others replied, "No, he deceives the people." `13` But no one would say anything publicly about him for fear of the leaders.
