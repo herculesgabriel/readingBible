@@ -324,3 +324,15 @@ Others replied, "No, he deceives the people." `13` But no one would say anything
 `20` "You are demon-possessed", the crowd answered. "Who is trying to kill you?"
 
 `21` Jesus said to them, "**I did one miracle, and you are all amazed.** `22` **Yet, because Moses gave you circumcision (through actually it did not come from Moses, but from the patriarchs), you circumcise a boy on the Sabbath.** `23` **Now if a boy can be circumcised on the Sabbath so that the law of Moses may not be broken, why are you angry with me for healing a man's whole body on the Sabbath?** `24` **Stop judging by mere appearances, but instead judge correctly.**"
+
+### Division Over Who Jesus Is
+
+`25` At that point some of the people of Jerusalem began to ask, "Isn't this man they are trying to kill? `26` Here he is, speaking publicly, and they are not saying a word to him. Have the authorities really concluded that he is the Messiah? `27` But we know where this man is from; when the Messiah comes, no one will know where he is from."
+
+`28` Then Jesus, still teaching in the temple courts, cried out, "**Yes, you know me, and you know where I am from. I am not here on my own authority, but he who sent me is true. You do not know him,** `29` **but I know him because I am from him and he sent me.**"
+
+`30` At this they tried to seize him, but no one laid a hand on him, because his hour had not yet come. `31` Still, many in the crowd believe in him. They said, "When the Messiah comes, will he perform more signs than this man?"
+
+`32` The Pharisees heard the crowd whispering such things about him. Then the chief priests and the Pharisees sent temple guards to arrest him.
+
+`33` Jesus said, "**I am with you for only a short time, and then I am going to the one who sent me.** `34` **You will look for me, but you will not find me; and where I am, you cannot come.**
