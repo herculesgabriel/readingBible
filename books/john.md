@@ -336,3 +336,7 @@ Others replied, "No, he deceives the people." `13` But no one would say anything
 `32` The Pharisees heard the crowd whispering such things about him. Then the chief priests and the Pharisees sent temple guards to arrest him.
 
 `33` Jesus said, "**I am with you for only a short time, and then I am going to the one who sent me.** `34` **You will look for me, but you will not find me; and where I am, you cannot come.**
+
+`35` The Jews said to one another, "Where does this man intend to go that we cannot find him? Will he go where our people live scattered among the Greeks, and teach the Greeks? `36` What did he mean when he said, '**You will look for me, but you will not find me**,' and '**Where I am, you cannot come**'?"
+
+`37` On the last and greatest day of the festival, Jesus stood and said in a loud voice, "**Let anyone who is thirsty come to me and drink.** `38` **Whoever believes in me, as Scripture has said, rivers of living water will flow from within them**."
