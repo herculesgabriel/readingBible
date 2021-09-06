@@ -340,3 +340,9 @@ Others replied, "No, he deceives the people." `13` But no one would say anything
 `35` The Jews said to one another, "Where does this man intend to go that we cannot find him? Will he go where our people live scattered among the Greeks, and teach the Greeks? `36` What did he mean when he said, '**You will look for me, but you will not find me**,' and '**Where I am, you cannot come**'?"
 
 `37` On the last and greatest day of the festival, Jesus stood and said in a loud voice, "**Let anyone who is thirsty come to me and drink.** `38` **Whoever believes in me, as Scripture has said, rivers of living water will flow from within them**."
+
+`39` By this he meant the Spirit, whom those who believed in him were later to receive. Up to that time the Spirit had not been given, since Jesus had not yet been glorified.
+
+`40` On hearing his words, some of the people said, "Surely this man is the Prophet."
+
+`41` Others said, "He is the Messiah." Still others asked, "How can the Messiah come from Galilee? `42` Does not Scripture say that the Messiah will come from David's descendants and from Bethlehem, the town where David lived?"
